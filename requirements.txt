@@ -1,0 +1,7 @@
+pvporcupine
+pyaudio
+SpeechRecognition
+edge-tts
+pygame
+aiohttp
+requests 
