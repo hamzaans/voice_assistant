@@ -202,7 +202,7 @@ class VoiceAssistant:
             print("\nStopping voice assistant...")
         
         finally:
-            self.audio_stream.close()
+            self.audio_stream.close() 
             self.pa.terminate()
             self.porcupine.delete()
             try:
